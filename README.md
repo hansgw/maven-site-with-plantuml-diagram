@@ -1,0 +1,1 @@
+# maven-site-with-plantuml-diagram
